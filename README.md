@@ -103,12 +103,16 @@ void loop()
 }
 ```
  
- ![image](https://github.com/SamyukthaSreenivasan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119475703/af787fdc-77ef-4ec4-9330-95a8eb5b873d)
+![image](https://github.com/SamyukthaSreenivasan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119475703/d9040e44-9cd4-4bf8-b756-2855e74e46bb)
 
 
 ### TABLE -02 standard deviation table 
 
 ![image](https://github.com/SamyukthaSreenivasan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119475703/5532547d-909b-4349-8c59-351e58867cca)
+
+
+![Uploading image.png…]()
+
 
 ### Population Standard Deviation
 The population standard deviation, the standard definition of σ, is used when an entire population can be measured, and is the square root of the variance of a given data set. In cases where every member of a population can be sampled, the following equation can be used to find the standard deviation of the entire population:
