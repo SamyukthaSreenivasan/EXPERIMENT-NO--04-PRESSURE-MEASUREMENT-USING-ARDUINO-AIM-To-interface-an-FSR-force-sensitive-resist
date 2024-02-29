@@ -105,10 +105,11 @@ void loop()
  
  ![image](https://github.com/SamyukthaSreenivasan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119475703/af787fdc-77ef-4ec4-9330-95a8eb5b873d)
 
-![image](https://github.com/SamyukthaSreenivasan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119475703/f629e3af-4844-4e8b-9344-e9e67e8bebd3)
-
 
 ### TABLE -02 standard deviation table 
+
+![image](https://github.com/SamyukthaSreenivasan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/119475703/5532547d-909b-4349-8c59-351e58867cca)
+
 ### Population Standard Deviation
 The population standard deviation, the standard definition of σ, is used when an entire population can be measured, and is the square root of the variance of a given data set. In cases where every member of a population can be sampled, the following equation can be used to find the standard deviation of the entire population:
 
@@ -121,9 +122,9 @@ N is the total number of values
 
 For those unfamiliar with summation notation, the equation above may seem daunting, but when addressed through its individual components, this summation is not particularly complicated. The i=1 in the summation indicates the starting index, i.e. for the data set 1, 3, 4, 7, 8, i=1 would be 1, i=2 would be 3, and so on. Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.
 
-EX:           μ = (1+3+4+7+8) / 5 = 4.6        
-σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
+EX:           μ = (2+2+4+5+6+7+8+9+9+10) / 10 = 6.2        
+σ = √(2-6.2)=17.64
+σ = √75.6 = 8.69
 
 
 
